@@ -31,7 +31,7 @@ if (mysqli_query($conn, $sql)) {
 $conn->close();
 ?>
 <br><br>
-<a href="index1.html">Back to main menu</a>
+<a href="index.html">Back to main menu</a>
 
 </body>
 </html>
